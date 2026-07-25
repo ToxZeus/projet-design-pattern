@@ -5,3 +5,5 @@
 .node_repl_history
 
 **/.env
+
+*.pdf
