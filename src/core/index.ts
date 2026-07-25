@@ -1,3 +1,4 @@
+export * from "./result.ts";
 export * from "./observer.ts";
 export * from "./singleton.ts";
 export * from "./strategy.ts";
