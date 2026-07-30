@@ -1,7 +1,7 @@
 import "./style.css";
-import { createApp } from "./app.ts";
+import { startApp } from "./demo/app.ts";
 
 const root = document.querySelector<HTMLDivElement>("#app");
 if (root) {
-  createApp(root);
+  startApp(root);
 }
